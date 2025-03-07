@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003793590823",
+    "project_id": "flutter-book-design",
+    "storage_bucket": "flutter-book-design.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003793590823:android:89f5d5ee9b8385e0aebc02",
+        "android_client_info": {
+          "package_name": "com.example.flutterdesign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4t983M3kwIILENHP7xn21zk33JOOrVc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
